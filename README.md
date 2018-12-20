@@ -5,7 +5,7 @@ First in a "practice" series of repositories. In these repos will be included co
 1. Create functions to implement:
    - a recursive process
    - an iterative process
-   - a momoization process
+   - a memoization process
 2. Compare each process by timing their performance
 3. Generate a .csv data-set for analysis in R
 4. Accomplish #1-3 in the following programming languages:
@@ -20,4 +20,8 @@ First in a "practice" series of repositories. In these repos will be included co
    - Inheritance management
    - Commit practices
    - Case / error-handling
-5. Perform thorough statistical analysis of generated dataset in R
+7. Perform thorough statistical analysis of generated dataset in R
+
+## Discovered pre-requisites / co-requisites:
+
+1. Decorator functions in python
